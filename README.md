@@ -9,4 +9,3 @@
 - Query the ViaCEP API to obtain address data based on a ZIP code.
 - Display the address data in the application.
 
-## Example code for querying the ViaCEP API in Java:
